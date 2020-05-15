@@ -1,0 +1,10 @@
+Webpack
+  babel
+  scss
+  eslint
+  2 modes
+    dev
+      dev server, source maps, eslint
+    prod
+      minified code
+Git
